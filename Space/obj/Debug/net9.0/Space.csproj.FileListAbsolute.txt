@@ -1,0 +1,14 @@
+C:\Users\AlumnoM\Documents\Space\bin\Debug\net9.0\Space.exe
+C:\Users\AlumnoM\Documents\Space\bin\Debug\net9.0\Space.deps.json
+C:\Users\AlumnoM\Documents\Space\bin\Debug\net9.0\Space.runtimeconfig.json
+C:\Users\AlumnoM\Documents\Space\bin\Debug\net9.0\Space.dll
+C:\Users\AlumnoM\Documents\Space\bin\Debug\net9.0\Space.pdb
+C:\Users\AlumnoM\Documents\Space\obj\Debug\net9.0\Space.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlumnoM\Documents\Space\obj\Debug\net9.0\Space.AssemblyInfoInputs.cache
+C:\Users\AlumnoM\Documents\Space\obj\Debug\net9.0\Space.AssemblyInfo.cs
+C:\Users\AlumnoM\Documents\Space\obj\Debug\net9.0\Space.csproj.CoreCompileInputs.cache
+C:\Users\AlumnoM\Documents\Space\obj\Debug\net9.0\Space.dll
+C:\Users\AlumnoM\Documents\Space\obj\Debug\net9.0\refint\Space.dll
+C:\Users\AlumnoM\Documents\Space\obj\Debug\net9.0\Space.pdb
+C:\Users\AlumnoM\Documents\Space\obj\Debug\net9.0\Space.genruntimeconfig.cache
+C:\Users\AlumnoM\Documents\Space\obj\Debug\net9.0\ref\Space.dll
